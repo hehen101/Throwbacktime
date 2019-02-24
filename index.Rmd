@@ -123,7 +123,7 @@ ZweiAcht %>%
     x = "Danceability",
     y = "Energy"
   )
-ggplotly()
+
 ```
 
 
